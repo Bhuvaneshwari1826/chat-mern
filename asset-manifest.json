@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chat-mern/static/css/main.2e0f9147.css",
+    "main.js": "/chat-mern/static/js/main.83d41e6d.js",
+    "static/js/787.33a53b2b.chunk.js": "/chat-mern/static/js/787.33a53b2b.chunk.js",
+    "static/media/bg.png": "/chat-mern/static/media/bg.8c28acedae03b1c214d7.png",
+    "index.html": "/chat-mern/index.html",
+    "main.2e0f9147.css.map": "/chat-mern/static/css/main.2e0f9147.css.map",
+    "main.83d41e6d.js.map": "/chat-mern/static/js/main.83d41e6d.js.map",
+    "787.33a53b2b.chunk.js.map": "/chat-mern/static/js/787.33a53b2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e0f9147.css",
+    "static/js/main.83d41e6d.js"
+  ]
+}
